@@ -7,6 +7,8 @@ more!
 Do you need custom electronic music or effects? Perfect for video games, crowd
 funding videos, promotional materials, podcasts, and cyberpunk noir cinema.
 
+Do you employ programmers?  We code and make music at the same time.  Our music is perfect for coding environments.  Hire an algorithm DJ for an afternoon set.  Live or remote, it's code!
+
 Email substack@gmail.com to schedule an appearance!
 
 Check out some of these tracks:
@@ -21,6 +23,7 @@ Check out some of these tracks:
 or listen on soundcloud:
 [substack](http://soundcloud.com/substack),
 [folkstack](https://soundcloud.com/folkstack)
+[johnnyscript](https://soundcloud.com/johnnyscript)
 
 Here is a recorded section from a live performance:
 [live performance](https://soundcloud.com/folkstack/live-code-session)
@@ -32,7 +35,7 @@ the world! I have a squad of [collaborators](https://soundcloud.com/folkstack).
 
 Our live events include psycheadelic, live-coded algorithmic visuals, 
 an educational presentation about waveforms and algorithms, and live-coded
-original music written on the spot.
+original music written on the spot.  
 
 For San Francisco Bay Area venues, the base price is $600 USD for a crew of 2
 for 2 hours or $400 USD for 2 hours of a solo performance. After the first 2
